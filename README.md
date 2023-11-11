@@ -10,4 +10,4 @@ gets as input the number of floors and generates randomly, up to 30 people, for 
 
 # Instructions
 1. Clone this repository in VS Code folder
-2. Execut "py main.py" in the console
+2. Execute "py main.py" in the console
